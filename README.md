@@ -13,7 +13,7 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivered-2022-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2023-orange?style=for-the-badge"/>
 </p>
 
 ---
