@@ -1,7 +1,7 @@
 # 🚤 5 × Patrol Craft (PC)
 
 <p align="center">
-  <img src="./pc2.jpg" alt="Patrol Craft" width="100%">
+  <img src="./pc2.JPG" alt="Patrol Craft" width="100%">
 </p>
 
 <h2 align="center">5 × Patrol Craft (PC)</h2>
