@@ -8,7 +8,7 @@
 
 <p align="center">
 <b>Bangladesh Navy</b><br>
-Naval Architect | Design Review | Contract Compliance | Class Compliance
+Naval Architect | Design Review | Design Management | Class Compliance
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Naval Architect | Design Review | Contract Compliance | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered a **51.6 m high-speed Patrol Craft** for the **Bangladesh Navy** in **2022**. Designed for coastal surveillance, maritime security, patrol, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, contract compliance, technical coordination, and verification of class requirements throughout construction and commissioning.
+Successfully delivered a **51.6 m Patrol Craft** for the **Bangladesh Navy** in **2022**. Designed for coastal surveillance, maritime security, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, design management, contract verification, and class compliance throughout construction, sea trials, and final delivery.
 
 | **Client** | Bangladesh Navy |
 |:-----------|:----------------|
@@ -34,23 +34,25 @@ Successfully delivered a **51.6 m high-speed Patrol Craft** for the **Bangladesh
 
 ## 👨‍💼 Engineering Contributions
 
-- Reviewed hull structural, outfitting, and production drawings against contractual specifications.
-- Verified engineering documentation for compliance with classification society rules and applicable regulations.
-- Coordinated technical reviews between the client, design team, production departments, and class surveyors.
-- Reviewed design revisions and resolved engineering issues during construction.
-- Supported construction, inspections, sea trials, commissioning, and successful project delivery.
+- Reviewed structural, outfitting, and production drawings to ensure compliance with contractual requirements.
+- Managed engineering deliverables throughout the design review process, ensuring timely resolution of technical comments and design revisions.
+- Verified compliance with applicable classification society rules, statutory regulations, and client technical specifications.
+- Coordinated technical activities between the client, design consultants, production departments, and class surveyors.
+- Reviewed engineering documentation, calculations, and production drawings prior to construction.
+- Supported construction, inspections, sea trials, commissioning, and final project delivery.
+- Ensured engineering quality, technical compliance, and configuration control throughout the project lifecycle.
 
 ---
 
 ## ⭐ Technical Expertise
 
-**Ship Design Review • Structural Engineering • Contract Compliance • Class Compliance • Technical Documentation • Engineering Coordination • Construction Support • Quality Assurance • Sea Trials & Commissioning**
+**Design Review • Design Management • Structural Engineering • Production Engineering • Engineering Documentation • Contract Compliance • Classification Compliance • Technical Coordination • Construction Support • Quality Assurance • Sea Trials & Commissioning**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • AutoCAD • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS**
+**AVEVA Marine • AutoCAD • Maxsurf • Rhino3D • ANSYS**
 
 ---
 
@@ -76,7 +78,7 @@ Successfully delivered a **51.6 m high-speed Patrol Craft** for the **Bangladesh
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Project Management | Classification Compliance**
+**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Classification Compliance**
 
 📧 **ariful.buet1985@gmail.com**
 
@@ -85,5 +87,5 @@ Successfully delivered a **51.6 m high-speed Patrol Craft** for the **Bangladesh
 ---
 
 <p align="center">
-<b>Delivering Safe, Mission-Ready, and Class-Compliant Naval Vessels.</b>
+<b>Delivering Technically Sound, Class-Compliant, and Mission-Ready Naval Vessels.</b>
 </p>
