@@ -1,10 +1,10 @@
-# 🚤 Patrol Craft (PC)
+# 🚤 5 × Patrol Craft (PC)
 
 <p align="center">
   <img src="./PatrolCraft.jpg" alt="Patrol Craft" width="100%">
 </p>
 
-<h2 align="center">Patrol Craft (PC)</h2>
+<h2 align="center">5 × Patrol Craft (PC)</h2>
 
 <p align="center">
 <b>Bangladesh Navy</b><br>
@@ -20,10 +20,11 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered a **51.6 m Patrol Craft** for the **Bangladesh Navy** in **2022**. Designed for coastal surveillance, maritime security, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, design management, contract verification, and class compliance throughout construction, sea trials, and final delivery.
+Successfully delivered **five 51.6 m Patrol Crafts** for the **Bangladesh Navy** in **2022**. Designed for coastal surveillance, maritime security, patrol, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, design management, contract compliance, and classification compliance from detailed engineering through construction, sea trials, and final delivery.
 
 | **Client** | Bangladesh Navy |
 |:-----------|:----------------|
+| **Project** | 5 × Patrol Craft (PC) |
 | **Role** | Naval Architect |
 | **Length Overall** | **51.6 m** |
 | **Breadth** | **7.5 m** |
@@ -34,19 +35,20 @@ Successfully delivered a **51.6 m Patrol Craft** for the **Bangladesh Navy** in 
 
 ## 👨‍💼 Engineering Contributions
 
-- Reviewed structural, outfitting, and production drawings to ensure compliance with contractual requirements.
-- Managed engineering deliverables throughout the design review process, ensuring timely resolution of technical comments and design revisions.
+- Reviewed hull structural, outfitting, and production drawings against contractual requirements.
+- Managed engineering deliverables and coordinated design reviews throughout the project lifecycle.
 - Verified compliance with applicable classification society rules, statutory regulations, and client technical specifications.
-- Coordinated technical activities between the client, design consultants, production departments, and class surveyors.
+- Coordinated technical interfaces between the client, design consultants, production departments, and class surveyors.
 - Reviewed engineering documentation, calculations, and production drawings prior to construction.
-- Supported construction, inspections, sea trials, commissioning, and final project delivery.
-- Ensured engineering quality, technical compliance, and configuration control throughout the project lifecycle.
+- Managed technical queries, design revisions, and engineering change implementation during construction.
+- Supported inspections, sea trials, commissioning, and successful delivery of all five patrol craft.
+- Ensured engineering quality, technical compliance, configuration control, and timely project execution.
 
 ---
 
 ## ⭐ Technical Expertise
 
-**Design Review • Design Management • Structural Engineering • Production Engineering • Engineering Documentation • Contract Compliance • Classification Compliance • Technical Coordination • Construction Support • Quality Assurance • Sea Trials & Commissioning**
+**Design Review • Design Management • Contract Compliance • Classification Compliance • Structural Engineering • Production Engineering • Engineering Documentation • Technical Coordination • Construction Support • Quality Assurance • Sea Trials & Commissioning**
 
 ---
 
@@ -78,7 +80,7 @@ Successfully delivered a **51.6 m Patrol Craft** for the **Bangladesh Navy** in 
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Classification Compliance**
+**Senior Naval Architect | Ship Design | Structural Engineering | Design Management | Project Management | Classification Compliance**
 
 📧 **ariful.buet1985@gmail.com**
 
@@ -87,5 +89,5 @@ Successfully delivered a **51.6 m Patrol Craft** for the **Bangladesh Navy** in 
 ---
 
 <p align="center">
-<b>Delivering Technically Sound, Class-Compliant, and Mission-Ready Naval Vessels.</b>
+<b>Delivering Safe, Mission-Ready, and Class-Compliant Naval Vessels.</b>
 </p>
