@@ -58,24 +58,6 @@ Successfully delivered **five 51.6 m Patrol Crafts** for the **Bangladesh Navy**
 
 ---
 
-## 📷 Project Gallery
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="./Construction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./SeaTrial.jpg" width="450"><br>
-<b>Sea Trials & Commissioning</b>
-</td>
-</tr>
-</table>
-
----
-
 ## 📬 Contact
 
 **Md. Ariful Islam**
