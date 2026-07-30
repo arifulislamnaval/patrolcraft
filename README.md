@@ -20,7 +20,7 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered **five 51.6 m Patrol Crafts** for the **Bangladesh Navy** in **2023**. Designed for coastal surveillance, maritime security, patrol, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, design management, contract compliance, and classification compliance from detailed engineering through construction, sea trials, and final delivery.
+Successfully delivered **05 in Nos. 51.6 m Patrol Crafts** for the **Bangladesh Navy** in **2023**. Designed for coastal surveillance, maritime security, patrol, search and rescue (SAR), fisheries protection, and law enforcement operations, the project involved engineering design review, design management, contract compliance, and classification compliance from detailed engineering through construction, sea trials, and final delivery.
 
 | **Client** | Bangladesh Navy |
 |:-----------|:----------------|
